@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #79f7f3;
+}
 .main{
     font-family: 'Oleo Script Swash Caps', cursive;
     /* height: 100vh; */
@@ -13,7 +16,6 @@
     align-items: center;
     font-size: 2rem;
     color: #011d75;
-    background-color: #79f7f3;
     text-align: center;
 }
 .quote{

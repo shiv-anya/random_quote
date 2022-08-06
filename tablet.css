@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #79f7f3;
+}
 .main{
     font-family: 'Oleo Script Swash Caps', cursive;
     /* height: 100vh; */
