@@ -14,8 +14,9 @@ body{
     justify-content: center;
     align-content: center;
     align-items: center;
-    font-size: 4rem;
-    color: #011d75;
+    font-size: 3rem;
+    /* color: #011d75; */
+    color: pink;
     background-color: #79f7f3;
     text-align: center;
 }
